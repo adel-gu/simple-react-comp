@@ -4,6 +4,15 @@
   "description": "A simple template for a custom React component library",
   "author": "Adel Guitoun <adeelguitoun@gmail.com>",
   "license": "MIT",
+  "private": false,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adel-gu/simple-react-comp.git"
+  },
+  "bugs": {
+    "url": "https://github.com/adel-gu/simple-react-comp/issues"
+  },
+  "homepage": "https://github.com/adel-gu/simple-react-comp#readme",
   "scripts": {
     "rollup": "rollup -c"
   },
